@@ -1,0 +1,14 @@
+streamlit
+capstone
+pandas
+pefile
+pyelftools
+yara-python
+graphviz
+plotly
+Pillow
+numpy
+requests
+scikit-learn
+reportlab
+streamlit-aggrid
